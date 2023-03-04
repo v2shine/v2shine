@@ -1,5 +1,15 @@
-### Hi there 👋
+### Yoo, I'm Yu Hui  👋 
 
+[![GitHub Yuhui](https://img.shields.io/github/followers/v2shine?label=follow&style=social)](https://github.com/v2shine)
+![Twitter Follow](https://img.shields.io/twitter/follow/v_miui?style=social)
+
+- 🌱 I’m currently learning *Golang*
+- 💬 Ask me about **Web Development**
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v2shine&layout=compact&theme=dark&hide_border=true)
+
+![YuHui's github stats](https://github-readme-stats.vercel.app/api?username=v2shine&show_icons=true&hide_border=true&theme=dark)
 <!--
 **v2shine/v2shine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
